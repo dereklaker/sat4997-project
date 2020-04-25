@@ -23,6 +23,12 @@ cd sat4997-project/
 python -m venv .
 ```
 
+Activate environment
+
+```
+source bin/activate
+```
+
 Install requirements
 
 ```
